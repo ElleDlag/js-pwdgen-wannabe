@@ -69,10 +69,8 @@ li:hover:before{
 }
 /* #endregion */
 
-
 .prompt_result{
     padding:100px 15px;
-    vertical-align: top;
 }
 .verify{
     margin-left:15px;
